@@ -1,0 +1,3 @@
+# elasticsearch-engine
+
+基于ElasticSearch搜索服务器的工具包 提供给用户能全文搜索service服务包装
